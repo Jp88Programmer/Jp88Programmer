@@ -70,13 +70,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jp88Programmer&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp88Programmer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### :fire: My Leetcode Stats : 
 ![](https://leetcard.jacoblin.cool/Jayendra_091?ext=heatmap)
