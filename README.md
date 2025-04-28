@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 
 
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -61,7 +59,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,ethersjs" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,python,firebase,mongodb,java,mysql" /><br>
 </div>
-
 <h2>⚡ Stats ⚡</h2>
  <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -79,10 +76,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Jp88Programmer&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
 <p  style="animation: fadein 2s;">
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Jp88Programmer&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
 </p>
+
 
 ### :fire: My Leetcode Stats : 
 ![](https://leetcard.jacoblin.cool/Jayendra_091?ext=heatmap)
