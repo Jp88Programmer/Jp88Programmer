@@ -1,5 +1,3 @@
-
-
 <!--
 **Jp88Programmer/Jp88Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,12 +43,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a Software Engineer, contributing to both the frontend and backend of web applications.
 
 - :zap: I also solve problems on Leetcode and GeeksforGeeks.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jayendra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayendra-parmar-0986931b9/)
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
