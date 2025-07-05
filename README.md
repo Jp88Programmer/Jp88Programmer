@@ -1,7 +1,6 @@
 <!--
 **Jp88Programmer/Jp88Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -42,6 +41,7 @@ Here are some ideas to get you started:
 
 
 ### :woman_technologist: About Me :
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I work as a Software Engineer, contributing to both the frontend and backend of web applications.
 
